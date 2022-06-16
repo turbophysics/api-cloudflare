@@ -7,7 +7,7 @@ workers_dev = true
 compatibility_date = "2022-03-30"
 
 kv_namespaces = [
-    { binding = "TinyFrontendKv", id = "d1aacabc6ad34a7a836eb598ff23c3ca", preview_id = "81443b04b2c543f6bcd8305d23d3bf6c" }
+    { binding = "elyra-test", id = "d1aacabc6ad34a7a836eb598ff23c3ca", preview_id = "81443b04b2c543f6bcd8305d23d3bf6c" }
 ]
 
 [build]
