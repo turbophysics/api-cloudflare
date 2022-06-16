@@ -1,7 +1,7 @@
 {
   "name": "api-cloudflare",
   "version": "0.0.1",
-  "description": "tiny frontend api deployed on Cloudflare Pages",
+  "description": "tiny frontend api deployed on Cloudflare Pages for Elyra",
   "main": "dist/worker.js",
   "scripts": {
     "build": "webpack",
